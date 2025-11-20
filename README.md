@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a software Engineering student at BYU-Idaho.
 - I’m currently working on:
   - Debugging and refining multithreaded Python and C# projects
-  - Python Text Adventure 
+  - Python Text Adventures 
  
 - I’m currently learning:
   - Quality assurance techniques and test automation
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software Engineering student at BYU-Idaho.
   - Creative ways to blend technical rigor with user-centered design
 
 -  I’m looking for help with:
-  - Navigating intership opportunities that align with my values
+  -  Navigating intership opportunities that align with my values
  
 -  How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/miller-raquel/
