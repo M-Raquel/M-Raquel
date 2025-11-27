@@ -15,13 +15,14 @@ AI integration, and building software that balances technical excellence with et
 - Proficient in: Python, C#, JavaScript, HTML, CSS  
 - Tools: Git, GitHub, VS Code, JetRider, SQL, Postman
 - Interests: AI integration, quality assurance, test automation, and user-centered design
--   
+    
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </div>
 
 ## Projects and Work
@@ -42,7 +43,7 @@ AI integration, and building software that balances technical excellence with et
   A C# project exploring data structures to simulate a dynamic music playlist system.  
   [View Repo](https://github.com/byui-cse-212/f25-final-project-M-Raquel)
 
-  - 🐍 **Python Text Adventure Game (In Progress)**  
+- 🐍 **Python Text Adventure Game (In Progress)**  
   An interactive text-based adventure game built in Python, focusing on storytelling and branching logic.  
   [View Repo](https://github.com/M-Raquel/pythonGame)
 
@@ -50,12 +51,9 @@ AI integration, and building software that balances technical excellence with et
   Helped plan activities, support participants, and judge final projects at BYUI’s hackathon.  
   [Event Page](https://i-hack-2025.devpost.com/)
 
-## GitHub Statistics
-![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Raquel&show_icons=true&theme=radical)
-
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/raquel-miller)
-- Email: 4miller.raquel@gmail.com
+- 4miller.raquel@gmail.com
   
 ✨ Feel free to explore my repositories and reach out — I love collaborating on projects that make a meaningful impact!
 <!--
