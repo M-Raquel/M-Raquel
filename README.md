@@ -47,6 +47,10 @@ AI integration, and building software that balances technical excellence with et
   An interactive text-based adventure game built in Python, focusing on storytelling and branching logic.  
   [View Repo](https://github.com/M-Raquel/pythonGame)
 
+- 🛜 **Basic Advent Calendar API (In Progress)**
+  An API for an advent calander where it releases a daily coding challenge, Practice with Javascript, Express, MongoDB, and JWT.
+  [View Repo](https://github.com/M-Raquel/Javascript-Advent-Calendar-API) 
+    
 - 🚀 **Hackathon Planning & Judging (BYUI iHack 2025)**  
   Helped plan activities, support participants, and judge final projects at BYUI’s hackathon.  
   [Event Page](https://i-hack-2025.devpost.com/)
