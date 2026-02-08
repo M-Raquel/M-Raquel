@@ -26,6 +26,9 @@ AI integration, and building software that balances technical excellence with et
 </div>
 
 ## Projects and Work
+- ⏱️ **Pomodoro Habit Tracker (TypeScript CLI Project)**
+A command‑line productivity tool built with TypeScript, featuring a Pomodoro timer, habit tracking, streak logic, and persistent storage to support consistent daily routines.
+[View Repo](https://github.com/M-Raquel/Pomodoro-Habits)
 
 - 🌍 **Planet Portfolio Site (Dynamic Web Fundamentals - WDD 131 Final)**  
   A responsive portfolio website built with JavaScript, CSS, and HTML to showcase planetary information and design creativity.  
